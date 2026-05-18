@@ -1,0 +1,2 @@
+# logistics-shipping-environment-variable-manager-vs-code-extension
+The Logistics &amp; Shipping Environment Variable Manager is a VS Code extension designed to streamline the management of environment variables for logistics and shipping applications. It provides a dedicated interface to define, organize, and switch between environment configurations for development, staging, and production. This tool eliminates manua
